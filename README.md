@@ -62,6 +62,6 @@ Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
 
 ---
 
-👨‍💻 **Mantenedor:** Arthur ([Seu GitHub](https://github.com/Arthcode08))
+👨‍💻 **Mantenedor:** Arthur ([Meu GitHub](https://github.com/Arthcode08))
 
 Se tiver dúvidas ou sugestões, entre em contato ou abra uma issue! 🚀
